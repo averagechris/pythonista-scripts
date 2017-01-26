@@ -19,7 +19,7 @@ ROWS = 1
 # Each shortcut should be a dict with at least a title and url key.
 # color and icon are optional.
 # If set, icon should be the name of a built-in image.
-SCRIPT_URL = "pythonista3://github/mistahchris/e-launcher/beventbrite_nav?action=run&args="
+SCRIPT_URL = "pythonista3://github/mistahchris/pythonista-scripts/eb-launcher/eventbrite_nav?action=run&args="
 SHORTCUTS = [
     {
      "title": "Search Admin",

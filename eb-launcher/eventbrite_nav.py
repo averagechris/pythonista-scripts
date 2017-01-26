@@ -8,7 +8,7 @@ import webbrowser
 from urllib.parse import quote_plus
 
 
-DEBUG = True
+DEBUG = False
 
 
 def admin_search(query, EB_ENV):
